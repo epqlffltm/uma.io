@@ -1,0 +1,31 @@
+.uma{
+    width: 700px;
+    height: 1000px;
+    background-image: url('/blog/uma/고루시맥퀸.jpg');
+    background-size: contain;
+}
+.uma:hover{
+    transform:skew(30deg,30deg);
+}
+.goldship{
+    width:500px;
+    height:1000px;
+    background-image: url('/blog/uma/고루시1.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.goldship:hover{
+    background-image: url('/blog/uma/고루시2.jpg');
+}
+
+.doto{
+    width:300px;
+    height: 1000px;
+    background-image: url('/blog/uma/도토.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.doto:hover{
+    transform: scale(2,2);
+}
